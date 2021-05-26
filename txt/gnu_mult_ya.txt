@@ -1,0 +1,11 @@
+unset multiplot
+set term gif animate optimize delay 10 background "#ffeedf" \
+   font "Times Roman,10"
+set output "multok_ya.gif"
+set size square
+set title "K means yadr k=5"
+set palette defined (0 "brown",1 "blue", 2 "green",3 "red",4 "black",5 "yellow")
+set yrange[-100:100]
+set xrange[-100:100]
+do for [i=3:101] {
+plot "output_for_ya".i.".txt" w p palette,"output_for_ya_ya".i.".txt" w p lt rgb "purple" pt 5}

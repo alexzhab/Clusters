@@ -1,0 +1,99 @@
+Process started
+
+GC: 10 10 0.5 0.7 100 - successfully.
+
+GC: 13 12 0.9 0.7 100 - successfully.
+
+GC: 14 16 1 1 100 - successfully.
+
+GC: 8 7 0.9 0.8 120 - successfully.
+
+GC: 10 5 1 1 100 - successfully.
+
+Printing field to a file - successfully.
+
+Wave algorithm, d=5 - successfully.
+Time: 0.223.
+
+K_means algorithm, k=5 - successfully.
+Time: 0.075.
+
+EM algorithm, k=5 - successfully.
+Time: 0.164.
+
+Hierarchical algorithm - successfully.
+Time: 5.834.
+
+Forel algorithm - successfully
+Time: 4.721
+
+
+Process started
+
+GC: 10 10 1 1 100 - successfully.
+
+GC: -10 -10 0.5 0.5 120 - successfully.
+
+Incorrect data entered.
+
+GC: 14 14 0.2 0.4 100 - successfully.
+
+GC: 10 20 0.5 0.8 100 - successfully.
+
+GC: 15 11 0.3 0.3 100 - successfully.
+
+Wave algorithm, d=5 - successfully.
+Time: 0.216.
+
+DBSCAN algorithm, d=0.5, k=5 - successfully.
+Time: 0.402.
+
+K_means algorithm, k=5 - successfully.
+Time: 0.019.
+
+EM algorithm, k=5 - successfully.
+Time: 0.098.
+
+
+Process started
+
+GC: 10 12 0.5 0.65 100 - successfully.
+
+Wave algorithm, d=1 - successfully.
+Time: 0.223.
+
+K_means algorithm, k=1 - successfully.
+Time: 0.075.
+
+EM algorithm, k=1 - successfully.
+Time: 0.034.
+
+Entered command that could not be recognized.
+
+Hierarchical algorithm - successfully.
+Time: 2.534.
+
+
+Process started
+
+GC: 10 10 1 0.5 120 - successfully.
+
+GC: 11 15 0.9 0.8 100 - successfully.
+
+Wave algorithm, d=2 - successfully.
+Time: 0.323.
+
+K_means algorithm, k=2 - successfully.
+Time: 0.092.
+
+EM algorithm, k=2 - successfully.
+Time: 0.210.
+
+Hierarchical algorithm - successfully.
+Time: 3.834.
+
+
+Process started
+
+Starting the interpolation - successfully.
+R = 0.877

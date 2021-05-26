@@ -1,0 +1,10 @@
+unset multiplot
+set term gif animate optimize delay 10 background "#ffeedf" \
+   font "Times Roman,10"
+set output "multok_for.gif"
+set size square
+set title "Forel"
+set yrange[-120:120]
+set xrange[-120:120]
+do for [i=1:100] {
+plot "output_for_pointf.txt" w p,"foutput_for_for".i.".txt" u 1:2:3:4 w ellipses,"foutput_for_for_sos".i.".txt" w p lt rgb 'green',"foutput_for_for_ud".i.".txt" w p lt rgb 'black'}
