@@ -1,7 +1,7 @@
-ÑOMMANDS
+COMMANDS
 
 HELP                 list of all the commands
-GENERATE_CLOUD       generation of the Ñloud, sX - dispersion for X, sY - dispersion for Y, mX - medium for X, mY - medium for Y
+GENERATE_CLOUD       generation of the Ã‘loud, sX - dispersion for X, sY - dispersion for Y, mX - medium for X, mY - medium for Y
 DELETE_CLOUD         deleting the cloud
 PRINT_FIELD          printing the current field to the "output_clouds.txt"
 FIELD_HISTOGRAM      generation of the histogram in the field
