@@ -1,0 +1,21 @@
+ÑOMMANDS
+
+HELP                 list of all the commands
+GENERATE_CLOUD       generation of the Ñloud, sX - dispersion for X, sY - dispersion for Y, mX - medium for X, mY - medium for Y
+DELETE_CLOUD         deleting the cloud
+PRINT_FIELD          printing the current field to the "output_clouds.txt"
+FIELD_HISTOGRAM      generation of the histogram in the field
+CLOUD_HISTOGRAM      generation of the histogram of the cloud
+PRINT_HIST           printing of the histogram into files: "output_hist_x.txt", "output_hist_y.txt"
+CHANGE_ST            changing of the field's state
+WAVE                 wave algorithm
+DBSCAN               wave algorithm but without 'dust' points
+K_MEANS              k_means algorithm, k - number of clusters
+K_MEANS_CORES        k_means_cores algorithm, k - number of clusters, p - number of cores
+EM                   EM algorithm, k- number of clusters
+FOREL                FOREL algorithm
+HIERARCHY            hierarchical algorithm
+DELAUNAY             Delaunay triangulation
+INTERPOL             func interpolation
+PRINT_CLUSTERS       printing clusters
+EXIT                 finish the program
